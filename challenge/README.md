@@ -10,7 +10,7 @@ This analysis is meant to show the relationship between Kickstarter funding goal
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater Outcomes](resources/Theater_Outcomes_vs_Launch.png){:width="438px"}
+![Theater Outcomes](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
