@@ -14,6 +14,8 @@ This analysis is meant to show the relationship between Kickstarter funding goal
 
 ### Analysis of Outcomes Based on Goals
 
+<img src="https://raw.githubusercontent.com/xJeris/BC-Kickstarter-Analysis/main/challenge/resources/Outcomes_vs_Goals.png" width="761">
+
 ### Challenges and Difficulties Encountered
 
 ## Results
