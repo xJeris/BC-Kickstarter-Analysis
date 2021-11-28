@@ -10,9 +10,15 @@ This analysis is meant to show the relationship between Kickstarter funding goal
 
 ### Analysis of Outcomes Based on Launch Date
 
+* July is the best month to launch. Having more than double the number of succesful campaigns vs failed ones.
+* 
+
 <img src="https://raw.githubusercontent.com/xJeris/BC-Kickstarter-Analysis/main/challenge/resources/Theater_Outcomes_vs_Launch.png" width="729">
 
 ### Analysis of Outcomes Based on Goals
+
+* $10,000 or less was better than 50% successful at being funded.
+* For higher values; 40,000 to 49,999 was at 49% successful and failed less often than any value between 5,000 and 39,999 (under 40%).
 
 <img src="https://raw.githubusercontent.com/xJeris/BC-Kickstarter-Analysis/main/challenge/resources/Outcomes_vs_Goals.png" width="761">
 
