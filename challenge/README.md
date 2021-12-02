@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Theater Funding Campaign Outcomes on Kickstarter
 
 ## Overview of Project
 
